@@ -11,7 +11,7 @@ import QueryProvider from "@/components/providers/query-provider";
 const font = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Vybe 2.0",
+  title: "Vibe 2.0",
   description: "This is a discord clone created with Nextjs",
 };
 
